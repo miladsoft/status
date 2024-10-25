@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '*/60 * * * *'  # Runs every 60 minutes
+    - cron: '*/60 * * * *'
 
 jobs:
   build-and-deploy:
