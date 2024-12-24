@@ -3,8 +3,8 @@ name: .NET Core Build and Deploy to GitHub Pages
 on:
   push:
     branches: [ "main" ]
-  schedule:
-    - cron: '0 * * * *' 
+  # schedule:
+  #   - cron: '0 * * * *' 
 
 jobs:
   build-and-deploy:
