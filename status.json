@@ -5,76 +5,6 @@
       "url": "https://angor.io",
       "type": "website",
       "isActive": true,
-      "timestamp": "2024-12-27T07:02:40.1359356Z"
-    },
-    {
-      "name": "hub.angor.io",
-      "url": "https://hub.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:40.3640689Z"
-    },
-    {
-      "name": "test.angor.io",
-      "url": "https://test.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:40.6396091Z"
-    },
-    {
-      "name": "beta.angor.io",
-      "url": "https://beta.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:40.7815867Z"
-    },
-    {
-      "name": "chat.angor.io",
-      "url": "https://chat.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:41.0303342Z"
-    },
-    {
-      "name": "zapper.angor.io",
-      "url": "https://zapper.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:41.1611131Z"
-    },
-    {
-      "name": "embed.hub.angor.io",
-      "url": "https://embed.hub.angor.io",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:41.4007493Z"
-    },
-    {
-      "name": "tbtc.indexer.angor.io",
-      "url": "https://tbtc.indexer.angor.io/api/stats/heartbeat",
-      "type": "indexer",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:42.0469917Z"
-    },
-    {
-      "name": "wss://relay.angor.io",
-      "url": "wss://relay.angor.io",
-      "type": "relay",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:42.5590554Z"
-    },
-    {
-      "name": "wss://relay2.angor.io",
-      "url": "wss://relay2.angor.io",
-      "type": "relay",
-      "isActive": true,
-      "timestamp": "2024-12-27T07:02:43.1715171Z"
-    },
-    {
-      "name": "angor.io",
-      "url": "https://angor.io",
-      "type": "website",
-      "isActive": true,
       "timestamp": "2024-12-27T08:03:33.9887315Z"
     },
     {
@@ -4199,44 +4129,79 @@
       "type": "relay",
       "isActive": true,
       "timestamp": "2024-12-29T18:03:16.7123883Z"
+    },
+    {
+      "name": "angor.io",
+      "url": "https://angor.io",
+      "type": "website",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.1977342Z"
+    },
+    {
+      "name": "hub.angor.io",
+      "url": "https://hub.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.4187898Z"
+    },
+    {
+      "name": "test.angor.io",
+      "url": "https://test.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.6396583Z"
+    },
+    {
+      "name": "beta.angor.io",
+      "url": "https://beta.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.7027936Z"
+    },
+    {
+      "name": "chat.angor.io",
+      "url": "https://chat.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.7770124Z"
+    },
+    {
+      "name": "zapper.angor.io",
+      "url": "https://zapper.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:17.9527626Z"
+    },
+    {
+      "name": "embed.hub.angor.io",
+      "url": "https://embed.hub.angor.io",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:18.1291861Z"
+    },
+    {
+      "name": "tbtc.indexer.angor.io",
+      "url": "https://tbtc.indexer.angor.io/api/stats/heartbeat",
+      "type": "indexer",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:18.9183212Z"
+    },
+    {
+      "name": "wss://relay.angor.io",
+      "url": "wss://relay.angor.io",
+      "type": "relay",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:19.3759764Z"
+    },
+    {
+      "name": "wss://relay2.angor.io",
+      "url": "wss://relay2.angor.io",
+      "type": "relay",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:19.8368856Z"
     }
   ],
   "Ariton": [
-    {
-      "name": "ariton.app",
-      "url": "https://ariton.app",
-      "type": "website",
-      "isActive": true,
-      "timestamp": "2024-12-24T19:02:41.5893754Z"
-    },
-    {
-      "name": "Ariton Payment",
-      "url": "https://pay.ariton.app/status",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-24T19:02:42.2147018Z"
-    },
-    {
-      "name": "Ariton Alpha",
-      "url": "https://alpha.ariton.app",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-24T19:02:42.3921326Z"
-    },
-    {
-      "name": "Ariton Web",
-      "url": "https://help.ariton.app",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-24T19:02:42.5537803Z"
-    },
-    {
-      "name": "Bitcoin Price",
-      "url": "https://pay.ariton.app/price",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-24T19:02:42.8378018Z"
-    },
     {
       "name": "ariton.app",
       "url": "https://ariton.app",
@@ -8401,23 +8366,44 @@
       "type": "service",
       "isActive": true,
       "timestamp": "2024-12-29T18:03:17.9847517Z"
+    },
+    {
+      "name": "ariton.app",
+      "url": "https://ariton.app",
+      "type": "website",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:19.9398339Z"
+    },
+    {
+      "name": "Ariton Payment",
+      "url": "https://pay.ariton.app/status",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:20.3950926Z"
+    },
+    {
+      "name": "Ariton Alpha",
+      "url": "https://alpha.ariton.app",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:20.7474893Z"
+    },
+    {
+      "name": "Ariton Web",
+      "url": "https://help.ariton.app",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:20.9902155Z"
+    },
+    {
+      "name": "Bitcoin Price",
+      "url": "https://pay.ariton.app/price",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:21.2310981Z"
     }
   ],
   "Blockcore": [
-    {
-      "name": "blockcore.net",
-      "url": "https://blockcore.net",
-      "type": "website",
-      "isActive": true,
-      "timestamp": "2024-12-16T21:22:46.8403537Z"
-    },
-    {
-      "name": "Blockcore Docs",
-      "url": "https://docs.blockcore.net",
-      "type": "service",
-      "isActive": true,
-      "timestamp": "2024-12-16T21:22:46.9121384Z"
-    },
     {
       "name": "blockcore.net",
       "url": "https://blockcore.net",
@@ -12603,6 +12589,20 @@
       "type": "service",
       "isActive": true,
       "timestamp": "2024-12-29T18:03:18.1991707Z"
+    },
+    {
+      "name": "blockcore.net",
+      "url": "https://blockcore.net",
+      "type": "website",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:21.4398425Z"
+    },
+    {
+      "name": "Blockcore Docs",
+      "url": "https://docs.blockcore.net",
+      "type": "service",
+      "isActive": true,
+      "timestamp": "2024-12-29T19:02:21.5804887Z"
     }
   ]
 }
