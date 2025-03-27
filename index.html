@@ -29,7 +29,10 @@
         }
 
         function sendJsonResponse(data) {
-            document.body.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            document.documentElement.innerHTML = '';
+            document.contentType = 'application/json';
+            document.write(JSON.stringify(data));
+            document.close();
         }
 
         checkWebsiteStatus();
